@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "mslearn-use-git-from-vs-code",
+			"path": "../clonar m5/mslearn-use-git-from-vs-code"
+		}
+	],
+	"settings": {}
+}
